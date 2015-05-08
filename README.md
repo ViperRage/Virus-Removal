@@ -22,6 +22,6 @@ All viruses
 
 ***
 
-# [Get it (Github)](https://github.com/ViperRage/VirusRemoval/releases/ "Viper Cleaner")
+# [Get it](https://github.com/ViperRage/VirusRemoval/releases/ "Viper Cleaner")
 
 ***
