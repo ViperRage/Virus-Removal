@@ -2,7 +2,7 @@
 
 ***
 
-Remove all viruses with my program.
+Remove all viruses with my virus protection kit.
 
 ***
 
