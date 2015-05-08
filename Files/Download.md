@@ -5,7 +5,7 @@ Virus free
 
 # Download Viper Clean Installer
 
-[Direct Link (1)](C:\Users\Virulent\Desktop "Guthub")
+[Direct Link (1)]( "Guthub")
 
 [Direct Link (2)]
 
