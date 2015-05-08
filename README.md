@@ -1,4 +1,7 @@
 # Virus-Removal
+
+***
+
 Remove all viruses with my program.
 
 ***
@@ -19,4 +22,6 @@ All viruses
 
 ***
 
-# [Get it](https://github.com/ViperRage/Virus-Removal/blob/master/Files/Download.md "Viper Cleaner")
+# [Get it (Github)](https://github.com/ViperRage/VirusRemoval/releases/ "Viper Cleaner")
+
+***
